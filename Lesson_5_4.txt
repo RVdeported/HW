@@ -1,0 +1,4 @@
+Subject_1: 100(L) 50(P) 20(Lab)
+Subject_2: 70(L) 30(P)
+Subject_3: 10(L) 20(Lab)
+Subject_4: 30(L)
