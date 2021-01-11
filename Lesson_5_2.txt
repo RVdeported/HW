@@ -1,0 +1,4 @@
+Ivan: 25000
+Elena: 18000
+Elissay: 22000
+Petrov: 1400
